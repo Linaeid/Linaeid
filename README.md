@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Linaeid
+- 👋 Hi, I’m @Lina
 - 👀 I’m interested in AI 
 - .
-- 🌱 I’m currently learning of computer science 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning computer science 
+- 💞️ I’m looking to collaborate 
