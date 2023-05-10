@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lina
 - 👀 I’m interested in AI 
 - .
-- 🌱 I’m currently learning computer science 
+- 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate 
