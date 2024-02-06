@@ -5,7 +5,7 @@
 
 This project aims to create a simple program recommendation system for the STC (Saudi Telecom Company) platform. The system suggests personalized program recommendations to users based on their past interactions with content. By analyzing user-program interaction data, the system helps users discover relevant and interesting programs within the STC platform.
 
-Problem:
+Problem :
 
 Users often struggle to find content that aligns with their preferences and interests on the STC platform due to the sheer volume of available programs. Without personalized recommendations, users may spend considerable time searching for content, leading to a less than optimal user experience.
 
